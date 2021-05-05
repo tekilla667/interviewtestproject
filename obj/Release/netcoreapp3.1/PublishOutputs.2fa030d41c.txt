@@ -1,0 +1,7 @@
+C:\Users\Testo\source\repos\destination\destination\obj\Release\netcoreapp3.1\PubTmp\Out\destination.exe
+C:\Users\Testo\source\repos\destination\destination\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\Testo\source\repos\destination\destination\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\Testo\source\repos\destination\destination\obj\Release\netcoreapp3.1\PubTmp\Out\destination.dll
+C:\Users\Testo\source\repos\destination\destination\obj\Release\netcoreapp3.1\PubTmp\Out\destination.deps.json
+C:\Users\Testo\source\repos\destination\destination\obj\Release\netcoreapp3.1\PubTmp\Out\destination.runtimeconfig.json
+C:\Users\Testo\source\repos\destination\destination\obj\Release\netcoreapp3.1\PubTmp\Out\destination.pdb
